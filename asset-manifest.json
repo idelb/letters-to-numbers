@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/letters-to-numbers/static/js/main.3bead477.chunk.js",
+    "main.js.map": "/letters-to-numbers/static/js/main.3bead477.chunk.js.map",
+    "runtime-main.js": "/letters-to-numbers/static/js/runtime-main.fcde0237.js",
+    "runtime-main.js.map": "/letters-to-numbers/static/js/runtime-main.fcde0237.js.map",
+    "static/js/2.df380952.chunk.js": "/letters-to-numbers/static/js/2.df380952.chunk.js",
+    "static/js/2.df380952.chunk.js.map": "/letters-to-numbers/static/js/2.df380952.chunk.js.map",
+    "index.html": "/letters-to-numbers/index.html",
+    "precache-manifest.8aee3d8593d2b5808e1373819b4e33a9.js": "/letters-to-numbers/precache-manifest.8aee3d8593d2b5808e1373819b4e33a9.js",
+    "service-worker.js": "/letters-to-numbers/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcde0237.js",
+    "static/js/2.df380952.chunk.js",
+    "static/js/main.3bead477.chunk.js"
+  ]
+}
